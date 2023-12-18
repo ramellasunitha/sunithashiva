@@ -7,6 +7,7 @@ public class Class1 {
 	
 	public void xyz() {
 		System.out.println("Package 1 class1 method2...");
+		System.out.println("package");
 	}
 
 }
